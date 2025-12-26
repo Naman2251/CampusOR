@@ -1,10 +1,11 @@
 Add your details here
-## Aditi Guin
 
-**GITHUB:** https://github.com/GuinAditi  
+Aditi Guin
 
-I am a web developer with strong knowledge of modern web development technologies, including **HTML, CSS, JavaScript, React, Next.js, TypeScript, SCSS, and Tailwind CSS**. I enjoy building clean, responsive, and user-friendly web applications with a strong focus on performance, usability, and maintainable code.
+GitHub: https://github.com/GuinAditi
 
-I also have experience in **mobile app development** using **React Native** and **Flutter**. On the backend, I am familiar with **Node.js, Express.js, REST APIs, and MongoDB**. Additionally, I have hands-on experience with **Git, GitHub, API integration, and basic deployment workflows**.
+I am a web developer with strong expertise in modern web technologies, including HTML, CSS, JavaScript, React, Next.js, TypeScript, SCSS, and Tailwind CSS. I enjoy building clean, responsive, and user-friendly web applications with a strong emphasis on performance, usability, and clean code practices.
 
-I am passionate about learning new technologies, improving my problem-solving skills, and contributing to meaningful and impactful projects.
+I also have experience in mobile application development using React Native and Flutter. On the backend, I am familiar with Node.js, Express.js, REST APIs, and MongoDB. Additionally, I have hands-on experience with Git, GitHub, API integration, and basic deployment workflows.
+
+I am passionate about continuously learning new technologies, strengthening my problem-solving skills, and contributing to impactful and meaningful projects.
